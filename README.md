@@ -1,7 +1,8 @@
-# Hola :star:
+# Hola 🍄:
 
 ### :seedling: Enfrijolada de frijol
 
-La verda quería tener mi perfil boito, pero aquí iré subiendo mis proyectos y trabajos
+La verdad quería tener mi perfil boito, pero aquí iré subiendo mis proyectos y trabajos
+
 
 
