@@ -6,8 +6,7 @@
 
 <div align="center">
 
-  # :bust_in_silhouette About me :bust_in_silhouette: 
-
+  # :star: About me :star: 
 </div>
 
 <h2 style="font-size: 20px;" align="center">I'm currently studying at the very Facultad de Ingenieria :mortar_board:</ style="font-size: 16px;">
@@ -16,14 +15,12 @@
 <p style="font-size: 18px;">I´m a Computer Engineering student <br>Ive worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.</p>
 
 
-<table align="Center" width="90%" border="none">
+<table align="Center" width="100%">
 <tbody>
 <tr>
 <td>
 <h3 align="center">I am... </h2>
 <p>:star2: A pre-inter at PROTECO. <br>:penguin: A linux user. <br>:star: A ver good pana. <br>:guitar: A guitarist. <br>:star: A capybara lover.</p>
-
-
 </td>
 <td>
 <div align="center"> 
@@ -46,7 +43,7 @@
 
 
 
-<br>
+
 <h1 align="center"> :green_book: Knowledge :pencil2:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
