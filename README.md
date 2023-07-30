@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I am Arthur :wave:</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=fira&color=FFFFFF&height=40&size=30&lines=How+ya'+doing';It's+Athur+here)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://media0.giphy.com/media/PgdWZV8Bb1fFqVcmtk/giphy.gif?cid=ecf05e478zs9lws3glq472agggnmrquiw4x9igk9c31hzp11&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px">
 </div>
@@ -76,4 +77,4 @@
 
 
 
-
+<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"></img>
