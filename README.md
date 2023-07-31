@@ -1,5 +1,4 @@
-<img width="2000px" src="img/Encabezado_sky_README.png"></img>
-
+<img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
 <h1 align="center">Hello there!<img src="https://media3.giphy.com/media/dSrV0Mltxj3cDCcovH/200.webp?cid=ecf05e47yw4vab0onmnrcincxkwk4bcfp31ck7qdzxgk08re&ep=v1_stickers_search&rid=200.webp&ct=s" width="60"></h1>
 
@@ -9,11 +8,11 @@
 </div>
 -->
 
-<br>
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Arial'&color=4AD228&background=262626&height=100&size=25&center=true&vCenter=true&height=30&lines=I+am+Arthur+!;You+can+call+me+Enfrijolada)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Arial'e&color=FFFFFF&size=25&center=true&vCenter=true&height=40&pause=3000&lines=My+name+is+Arthur+:>;You+can+call+me+Enfrijolada)](https://git.io/typing-svg)
 
   # :star: About me :star: 
 </div>
@@ -42,10 +41,6 @@ I've worked hard to get to this point where I feel I can dedicate myself to tech
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enfrijolada_de_frijol) 
 </div>
 
-
-
-
-
 <h1 align="center"> :green_book: Knowledge :pencil2:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
@@ -63,8 +58,6 @@ I've worked hard to get to this point where I feel I can dedicate myself to tech
 </div>
 
 </details>
-
-
 
 
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="1100px"></img>
