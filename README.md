@@ -1,14 +1,19 @@
+<img width="2000px" src="img/Encabezado_sky_README.png"></img>
+
 
 <h1 align="center">Hello there!<img src="https://media3.giphy.com/media/dSrV0Mltxj3cDCcovH/200.webp?cid=ecf05e47yw4vab0onmnrcincxkwk4bcfp31ck7qdzxgk08re&ep=v1_stickers_search&rid=200.webp&ct=s" width="60"></h1>
 
+<!--
 <div align="center">
 <img src="https://media0.giphy.com/media/PgdWZV8Bb1fFqVcmtk/giphy.gif?cid=ecf05e478zs9lws3glq472agggnmrquiw4x9igk9c31hzp11&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350px">
 </div>
+-->
+
 <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Arial'&color=4AD228&size=25&center=true&vCenter=true&height=30&lines=I+am+Arthur+;You+can+call+me+Enfrijolada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Arial'&color=4AD228&background=262626&height=100&size=25&center=true&vCenter=true&height=30&lines=I+am+Arthur+!;You+can+call+me+Enfrijolada)](https://git.io/typing-svg)
 
   # :star: About me :star: 
 </div>
