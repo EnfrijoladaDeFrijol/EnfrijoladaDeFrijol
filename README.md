@@ -1,6 +1,6 @@
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
-<h1 align="center">Hello there!<img src="https://media3.giphy.com/media/dSrV0Mltxj3cDCcovH/200.webp?cid=ecf05e47yw4vab0onmnrcincxkwk4bcfp31ck7qdzxgk08re&ep=v1_stickers_search&rid=200.webp&ct=s" width="60"></h1>
+<h1 align="center">Hello there!<img src="https://media3.giphy.com/media/dSrV0Mltxj3cDCcovH/200.webp?cid=ecf05e47yw4vab0onmnrcincxkwk4bcfp31ck7qdzxgk08re&ep=v1_stickers_search&rid=200.webp&ct=s" width="50"></h1>
 
 <!--
 <div align="center">
@@ -8,11 +8,9 @@
 </div>
 -->
 
-
-
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Arial'e&color=FFFFFF&size=25&center=true&vCenter=true&height=40&pause=3000&lines=My+name+is+Arthur+:>;You+can+call+me+Enfrijolada)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=82F281&size=25&center=true&vCenter=true&height=40&pause=3000&lines=My+name+is+Arthur+:>;You+can+call+me+Enfrijolada)](https://git.io/typing-svg)
 
   # :star: About me :star: 
 </div>
@@ -22,7 +20,7 @@
 <img align="right" alt="Eva01" src="https://media2.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif?cid=ecf05e47kpqpp0v5xds823vx5pfsh18gcleupyq93g9jp4nh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
 -->
 
-## I'm currently studying Computer Engineering at the very Facultad de Ingenieria :mortar_board:
+## :mortar_board: I'm currently studying Computer Engineering at the very Facultad de Ingenieria 
 
 I've worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.
 
@@ -60,7 +58,7 @@ I've worked hard to get to this point where I feel I can dedicate myself to tech
 </details>
 
 <details> 
-  <summary><h2> Github Activity Graph</h2></summary>
+  <summary><h2>:chart_with_upwards_trend: Github Activity Graph</h2></summary>
   <div align="center" size="100px">
 
   [![Enfrijolada's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnfrijoladaDeFrijol&theme=github-compact)](https://github.com/EnfrijoladaDeFrijol/github-readme-activity-graph)
