@@ -24,9 +24,10 @@
 <img align="right" alt="Eva01" src="https://media2.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif?cid=ecf05e47kpqpp0v5xds823vx5pfsh18gcleupyq93g9jp4nh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
 
 
-## :mortar_board: I'm currently studying Computer Engineering at the very Facultad de Ingenieria 
+## :milky_way: I'm currently studying Computer Engineering at the very Facultad de Ingenieria 
 
-I've worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.
+<p align="center">I've worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.</p>
+
 
 - 🌱 I am pre-inter at PROTECO. 
 - :penguin: I am also a linux user. 
@@ -54,7 +55,7 @@ I've worked hard to get to this point where I feel I can dedicate myself to tech
   <summary><h2>📊 Github Stats and Activit</h2></summary>
   <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=EnfrijoladaDeFrijol&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+  ![Mi Grafica](https://github-readme-stats.vercel.app/api?username=EnfrijoladaDeFrijol&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=EnfrijoladaDeFrijol&theme=merko&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnfrijoladaDeFrijol&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
