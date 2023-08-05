@@ -15,10 +15,12 @@
   # :star: About me :star: 
 </div>
 
-<img align="right" alt="Eva01" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
 <!-- EVANGELION
-<img align="right" alt="Eva01" src="https://media2.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif?cid=ecf05e47kpqpp0v5xds823vx5pfsh18gcleupyq93g9jp4nh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
+<img align="right" alt="Eva01" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
 -->
+
+<img align="right" alt="Eva01" src="https://media2.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif?cid=ecf05e47kpqpp0v5xds823vx5pfsh18gcleupyq93g9jp4nh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="260px">
+
 
 ## :mortar_board: I'm currently studying Computer Engineering at the very Facultad de Ingenieria 
 
