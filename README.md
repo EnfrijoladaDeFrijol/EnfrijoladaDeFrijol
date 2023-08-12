@@ -1,16 +1,16 @@
-<div id="Inicio"></div>
+
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
-<!--
+
 <div align="center">
   <table align="right">
   <tr><td><a href="https://github.com/EnfrijoladaDeFrijol"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/united-states-of-america-658093.png?f=avif&w=256" alt="US flag" width="17px"> English</a></td></tr>
   <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mexico-165784.png?f=avif&w=256" alt="Mexico flag" width="17px">  Español</a></td></tr>
   </table>
 </div>
--->
 
-<h1 align="center">Hello there! <img src="https://media0.giphy.com/media/UiitKITxM89mcNv0mX/200.webp?cid=ecf05e47hcxb7shhsxib64nrfvpsz1y1auu3jcmgtixbgnin&ep=v1_stickers_search&rid=200.webp&ct=s" width="60"></h1>
+
+<h1 align="center"><img src="https://media0.giphy.com/media/UiitKITxM89mcNv0mX/200.webp?cid=ecf05e47hcxb7shhsxib64nrfvpsz1y1auu3jcmgtixbgnin&ep=v1_stickers_search&rid=200.webp&ct=s" width="60"> Hello world !</h1>
 
 <!-- Gatitos saludando
 <div align="center">
@@ -24,8 +24,10 @@
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  # :four_leaf_clover: About me :herb: 
+  # :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: About me :full_moon: :waning_gibbous_moon: :last_quarter_moon:  :waning_crescent_moon:
 </div>
+
+
 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
 
