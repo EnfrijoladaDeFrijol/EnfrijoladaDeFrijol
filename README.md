@@ -5,7 +5,7 @@
 <div align="center">
   <table align="right">
   <tr><td><a href="https://github.com/EnfrijoladaDeFrijol"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/united-states-of-america-658093.png?f=avif&w=256" alt="US flag" width="17px"> English</a></td></tr>
-  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mexico-165784.png?f=avif&w=256" alt="Mexico flag" width="17px">  Español</a></td></tr>
+  <tr><td><a href="https://github.com/EnfrijoladaDeFrijol/EnfrijoladaDeFrijol/blob/master/README-esp.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mexico-165784.png?f=avif&w=256" alt="Mexico flag" width="17px">  Español</a></td></tr>
   </table>
 </div>
 
