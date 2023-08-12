@@ -1,10 +1,10 @@
 <div id="Inicio"></div>
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
-<!-- Selección de idioma en proceso...
+<!--
 <div align="center">
   <table align="right">
-  <tr><td><a href="https://github.com/EnfrijoladaDeFrijol/EnfrijoladaDeFrijol/blob/master/README.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/united-states-of-america-658093.png?f=avif&w=256" alt="US flag" width="17px"> English</a></td></tr>
+  <tr><td><a href="https://github.com/EnfrijoladaDeFrijol"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/united-states-of-america-658093.png?f=avif&w=256" alt="US flag" width="17px"> English</a></td></tr>
   <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mexico-165784.png?f=avif&w=256" alt="Mexico flag" width="17px">  Español</a></td></tr>
   </table>
 </div>
@@ -22,7 +22,9 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=4EDF6B&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
-  # :star: About me :star: 
+  [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
+
+  # :four_leaf_clover: About me :herb: 
 </div>
 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
@@ -52,7 +54,6 @@
 <div align="center">
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enfrijolada_de_frijol) 
-  [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=12)](https://visitcount.itsvg.in)
 </div>
 
 <h1 align="center"> :green_book: Knowledge :pencil2:</h1>
@@ -81,7 +82,7 @@
 </div>
 </details>
 
-<p align="right"><a href="#hello-there-"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/button-78-357288.png?f=avif&w=256" alt="Back to top" width="30"></a></p>
+<p align="right"><a href="#hello-there-"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/apartment-177-357309.png?f=avif&w=256" alt="Back to top" width="20"> Home</a></p>
 
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="1100px"></img>
 
