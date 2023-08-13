@@ -5,7 +5,7 @@
 <div align="center">
   <table align="right">
   <tr><td><a href="https://github.com/EnfrijoladaDeFrijol"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/united-states-of-america-658093.png?f=avif&w=256" alt="US flag" width="17px"> English</a></td></tr>
-  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mexico-165784.png?f=avif&w=256" alt="Mexico flag" width="17px">  Español</a></td></tr>
+  <tr><td><a href="https://github.com/EnfrijoladaDeFrijol/EnfrijoladaDeFrijol/blob/master/README-esp.md"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mexico-165784.png?f=avif&w=256" alt="Mexico flag" width="17px">  Español</a></td></tr>
   </table>
 </div>
 
@@ -19,11 +19,11 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=4EDF6B&size=25&center=true&vCenter=true&height=40&pause=3500&lines=Mi+nombre+es+Arthur;Me+puedes+decir+Enfrijolada;Bienvenido+a+mi+perfil+de+GitHub)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=4EDF6B&size=25&center=true&vCenter=true&height=40&pause=3500&lines=Mi+nombre+es+Arthur;Me+puedes+decir+Enfrijolada;Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  # :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: About me :full_moon: :waning_gibbous_moon: :last_quarter_moon:  :waning_crescent_moon:
+  # :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: Sobre mí :full_moon: :waning_gibbous_moon: :last_quarter_moon:  :waning_crescent_moon:
 </div>
 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
@@ -36,7 +36,7 @@
 <img align="right" alt="shinji" src="https://media3.giphy.com/media/mxvs1WSuKy5REJtDiG/200w.webp?cid=ecf05e47eq1bwt1xjkjre1paq5dox2qgkrn42wbqto9m7yv6&ep=v1_stickers_search&rid=200w.webp&ct=s" width="300x">
 -->
 
-<h2 align="justify">:seedling: Ando estudiando Ingenieria en computación en la mismísima Facultad de Ingenieria (UNAM)</h2>
+<h2 align="justify">:frog: Ando estudiando Ingenieria en computación en la mismísima Facultad de Ingenieria (UNAM)</h2>
 
 <p align="justify">LLegar hasta acá no ha sido nada sencillo, afortunadamente me sietno capaz de dedicarme a la tecnología con lo que he aprendido ya que es algo que me gusta, pero también me gustaría llegar a ser un gran profesor para aportar un poco a este mundo.</p>
 
@@ -44,7 +44,7 @@
 - :penguin: También soy usuario de Linux. 
 - 🏆 Mi meta personal, aportar a proyectos de cídigo libre.
 - :guitar: Toco guitarra como pasatiempos. 
-- :star: Amo a los capybaras, Neon Genesis Evangelion y a mi noviecita.
+- :hearts: Amo a los capybaras, Neon Genesis Evangelion y a mi noviecita.
 - :book: Quiero ser un gran profesor.
 - :star2: Mi sueño más grande es ser un Ingenierio en ciberseguridad.
 
@@ -82,7 +82,7 @@
 </details>
 
 
-<p align="right"><a href="#hello-there-"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/apartment-177-357309.png?f=avif&w=256" alt="Back to top" width="20"> Inicio</a></p>
+<p align="right"><a href="#-hola-mundo-"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/apartment-177-357309.png?f=avif&w=256" alt="Back to top" width="20"> Inicio</a></p>
 
 
 
