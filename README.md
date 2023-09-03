@@ -24,7 +24,7 @@
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  # :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: About me :full_moon: :waning_gibbous_moon: :last_quarter_moon:  :waning_crescent_moon:
+  # :honeybee: About me :honeybee:
 </div>
 
 
@@ -61,7 +61,7 @@
 <h1 align="center"> :green_book: Knowledge :pencil2:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,html,css,javascript,matlab,java,c,md,latex,vscode&perline=7"alt="My Knowledge"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,docker,html,css,javascript,matlab,java,c,md,latex&perline=7"alt="My Knowledge"/> 
     </a>
 </p>
 
