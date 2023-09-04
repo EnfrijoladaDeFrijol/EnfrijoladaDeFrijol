@@ -23,7 +23,7 @@
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  # :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: Sobre mí :full_moon: :waning_gibbous_moon: :last_quarter_moon:  :waning_crescent_moon:
+  # :honeybee: Sobre mì :honeybee:
 </div>
 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
@@ -36,13 +36,13 @@
 <img align="right" alt="shinji" src="https://media3.giphy.com/media/mxvs1WSuKy5REJtDiG/200w.webp?cid=ecf05e47eq1bwt1xjkjre1paq5dox2qgkrn42wbqto9m7yv6&ep=v1_stickers_search&rid=200w.webp&ct=s" width="300x">
 -->
 
-<h2 align="justify">:frog: Ando estudiando Ingenieria en computación en la mismísima Facultad de Ingenieria (UNAM)</h2>
+<h2 align="justify"> Ando estudiando Ingenieria en computación en la mismísima Facultad de Ingenieria (UNAM)</h2>
 
-<p align="justify">LLegar hasta acá no ha sido nada sencillo, afortunadamente me sietno capaz de dedicarme a la tecnología con lo que he aprendido ya que es algo que me gusta, pero también me gustaría llegar a ser un gran profesor para aportar un poco a este mundo.</p>
+<p align="justify">LLegar hasta acá no ha sido nada sencillo, afortunadamente me siento capaz de dedicarme a la tecnología con lo que he aprendido ya que es algo que me gusta, pero también me gustaría llegar a ser un gran profesor para aportar un poco a este mundo.</p>
 
 - 🌱 Estoy de becario en PROTECO. 
 - :penguin: También soy usuario de Linux. 
-- 🏆 Mi meta personal, aportar a proyectos de cídigo libre.
+- 🏆 Mi meta personal, aportar a proyectos de còdigo libre.
 - :guitar: Toco guitarra como pasatiempos. 
 - :hearts: Amo a los capybaras, Neon Genesis Evangelion y a mi noviecita.
 - :book: Quiero ser un gran profesor.
@@ -58,7 +58,7 @@
 <h1 align="center"> :green_book: Conocimiento :pencil2:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,latex,py,html,css,javascript,matlab,c,vscode,java,md,&perline=7"alt="My Knowledge"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,html,css,javascript,matlab,java,c,md,latex,vscode&perline=7"alt="My Knowledge"/> 
     </a>
 </p>
 
