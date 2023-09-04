@@ -48,9 +48,13 @@
 - 🏆 My personal goal, contribute more to open source projects. 
 - :guitar: I like playing guitar as a hobby. 
 - :hearts: I love capybaras, Neon Genesis Evangelion and my Gf.
+- :diamond_shape_with_a_dot_inside: I like rubik cubes.
 - :book: I wanna become a great teacher.
 - :star2: My biggest dream, becoming a Cybersecurity Engineer.
 
+<br>
+<br>
+<br>
 <br>
 
 <div align="center">
@@ -64,6 +68,8 @@
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,docker,html,css,javascript,matlab,java,c,md,latex&perline=7"alt="My Knowledge"/> 
     </a>
 </p>
+
+<br>
 
 <details open> 
   <summary><h2>:chart_with_upwards_trend: Github Activity Graph</h2></summary>
