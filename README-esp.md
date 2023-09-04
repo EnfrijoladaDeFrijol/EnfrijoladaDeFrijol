@@ -24,6 +24,8 @@
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
   # :honeybee: Sobre mì :honeybee:
+
+  
 </div>
 
 <!-- 
@@ -45,15 +47,21 @@
 - 🏆 Mi meta personal, aportar a proyectos de còdigo libre.
 - :guitar: Toco guitarra como pasatiempos. 
 - :hearts: Amo a los capybaras, Neon Genesis Evangelion y a mi noviecita.
+- :diamond_shape_with_a_dot_inside: Me gustan los cubos rubiks
 - :book: Quiero ser un gran profesor.
 - :star2: Mi sueño más grande es ser un Ingenierio en ciberseguridad.
 
+<br>
+<br>
+<br>
 <br>
 
 <div align="center">
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enfrijolada_de_frijol) 
 </div>
+
+<br>
 
 <h1 align="center"> :green_book: Conocimiento :pencil2:</h1>
 <p align = "center">
