@@ -58,7 +58,7 @@
 <h1 align="center"> :green_book: Conocimiento :pencil2:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,html,css,javascript,matlab,java,c,md,latex,vscode&perline=7"alt="My Knowledge"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,docker,html,css,javascript,matlab,java,c,md,latex&perline=7"alt="Mi conocimiento"/> 
     </a>
 </p>
 
