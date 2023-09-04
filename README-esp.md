@@ -26,8 +26,6 @@
   # :honeybee: Sobre mì :honeybee:
 </div>
 
-<img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
-
 <!-- 
 <img align="right" alt="Eva01" src="https://media2.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif?cid=ecf05e47kpqpp0v5xds823vx5pfsh18gcleupyq93g9jp4nh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
 -->
@@ -36,7 +34,9 @@
 <img align="right" alt="shinji" src="https://media3.giphy.com/media/mxvs1WSuKy5REJtDiG/200w.webp?cid=ecf05e47eq1bwt1xjkjre1paq5dox2qgkrn42wbqto9m7yv6&ep=v1_stickers_search&rid=200w.webp&ct=s" width="300x">
 -->
 
-<h2 align="justify"> Ando estudiando Ingenieria en computación en la mismísima Facultad de Ingenieria (UNAM)</h2>
+<h2 align="left"> Ando estudiando Ingenieria en computación en la mismísima Facultad de Ingenieria (UNAM)</h2>
+
+<img align="right" alt="Cubo" src="https://media0.giphy.com/media/IUNycHoVqvLDowiiam/200w.webp?cid=ecf05e47nrchjftgyb3tg9vzz3zmx3j6hys063amtxl02bk9&ep=v1_stickers_search&rid=200w.webp&ct=s" width="330px">
 
 <p align="justify">LLegar hasta acá no ha sido nada sencillo, afortunadamente me siento capaz de dedicarme a la tecnología con lo que he aprendido ya que es algo que me gusta, pero también me gustaría llegar a ser un gran profesor para aportar un poco a este mundo.</p>
 
