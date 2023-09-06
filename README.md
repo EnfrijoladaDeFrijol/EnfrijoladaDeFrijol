@@ -9,8 +9,7 @@
   </table>
 </div>
 
-
-<h1 align="center"><img src="https://media2.giphy.com/media/ukjroRS7Y9GLbuK1If/200w.webp?cid=ecf05e47mg3xq2hwx8bm9io0a9b9jaagr31jm0q3t6p0dsyi&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> Hello world !</h1>
+<h1 align="center"><img src="https://media3.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47iga0na4364sx6w3hguofk8ls1bouzdkts7ck2hih&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> Hello world !</h1>
 
 
 <!-- Gatitos saludando
@@ -18,16 +17,18 @@
 <img src="https://media0.giphy.com/media/PgdWZV8Bb1fFqVcmtk/giphy.gif?cid=ecf05e478zs9lws3glq472agggnmrquiw4x9igk9c31hzp11&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350px">
 </div>
 -->
-
+<!--F1CC12, F1CC12-->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=4EDF6B&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=F2F500&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
 </div>
 
-# :star: About me
+<br>
+
+<h1><img src="https://media3.giphy.com/media/bDtzRbWJOwmInd1DQP/200w.webp?cid=ecf05e47lezq2lufyb611n7pngpgjhzfxs5y10y9n7oy7u0j&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> About me</h1>
 
 <!-- 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
