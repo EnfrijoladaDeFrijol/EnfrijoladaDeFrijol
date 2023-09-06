@@ -1,4 +1,4 @@
-<samp>
+
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
 
@@ -10,7 +10,8 @@
 </div>
 
 
-<h1 align="center"><img src="https://media0.giphy.com/media/UiitKITxM89mcNv0mX/200.webp?cid=ecf05e47hcxb7shhsxib64nrfvpsz1y1auu3jcmgtixbgnin&ep=v1_stickers_search&rid=200.webp&ct=s" width="60"> Hello world !</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/ukjroRS7Y9GLbuK1If/200w.webp?cid=ecf05e47mg3xq2hwx8bm9io0a9b9jaagr31jm0q3t6p0dsyi&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> Hello world !</h1>
+
 
 <!-- Gatitos saludando
 <div align="center">
@@ -24,9 +25,9 @@
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  # :honeybee: About me :honeybee:
 </div>
 
+# :star: About me
 
 <!-- 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
