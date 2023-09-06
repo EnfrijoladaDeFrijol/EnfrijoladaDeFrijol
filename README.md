@@ -17,10 +17,10 @@
 <img src="https://media0.giphy.com/media/PgdWZV8Bb1fFqVcmtk/giphy.gif?cid=ecf05e478zs9lws3glq472agggnmrquiw4x9igk9c31hzp11&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350px">
 </div>
 -->
-<!--F1CC12, F1CC12-->
+<!--, F1CC12-->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=F2F500&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=00C615&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enfrijolada_de_frijol) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enfrijolada_de_frijol)
 </div>
 
 <h1 align="center"> :green_book: Knowledge :pencil2:</h1>
