@@ -1,4 +1,4 @@
-
+<samp>
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
 
