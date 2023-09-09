@@ -28,7 +28,7 @@
 
 <br>
 
-<h1><img src="https://media3.giphy.com/media/bDtzRbWJOwmInd1DQP/200w.webp?cid=ecf05e47lezq2lufyb611n7pngpgjhzfxs5y10y9n7oy7u0j&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> About me</h1>
+<h1 align="center"><img src="https://media3.giphy.com/media/bDtzRbWJOwmInd1DQP/200w.webp?cid=ecf05e47lezq2lufyb611n7pngpgjhzfxs5y10y9n7oy7u0j&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> About me</h1>
 
 <!-- 
 <img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
