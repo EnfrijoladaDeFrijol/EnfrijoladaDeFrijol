@@ -49,7 +49,7 @@
 - :penguin: I am also a linux user. 
 - 🏆 My personal goal, contribute more to open source projects. 
 - :guitar: I like playing guitar as a hobby. 
-- :hearts: I love capybaras, Neon Genesis Evangelion and my Gf.
+- :hearts: I love capybaras, Neon Genesis Evangelion and Star Wars.
 - :diamond_shape_with_a_dot_inside: I like rubik cubes.
 - :book: I wanna become a great teacher.
 - :star2: My biggest dream, becoming a Cybersecurity Engineer.
