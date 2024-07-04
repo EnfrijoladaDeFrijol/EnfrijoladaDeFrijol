@@ -46,7 +46,7 @@
 - :penguin: También soy usuario de Linux. 
 - 🏆 Mi meta personal, aportar a proyectos de còdigo libre.
 - :guitar: Toco guitarra como pasatiempos. 
-- :hearts: Amo a los capybaras, Neon Genesis Evangelion y a mi noviecita.
+- :hearts: Amo a los capybaras, Neon Genesis Evangelion y Star Wars.
 - :diamond_shape_with_a_dot_inside: Me gustan los cubos rubiks
 - :book: Quiero ser un gran profesor.
 - :star2: Mi sueño más grande es ser un Ingenierio en ciberseguridad.
