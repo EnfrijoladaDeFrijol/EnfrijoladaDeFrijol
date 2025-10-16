@@ -1,6 +1,8 @@
 
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
+<h1 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Bna3M4YjlqZmg3bzVtc3o1cDJhZnYwNXY2ejZrc2c4YThrbWcyNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ifFoVPbQ19byqL8mLz/giphy.webp" width="25"> Hello world !</h1>
+
 <!--
 <div align="center">
   <table align="right">
@@ -37,7 +39,7 @@
     <p align="justify">
       I've worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.
       <td width="35%" align="center">
-      <img align="right" alt="Eva01" src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2E5ZGF1c3A3dGZ2cWhrN3VlMW92MWt2aGJqdWk0OHJ1ODY1bWg0dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RibxbCbndyKu9tef9k/giphy.webp" width="330px">
+      <img align="right" alt="Eva01" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTIyZG05YjJjdGwyMzV3ZzhzNm5jZjAwd2l2OWhjY3FlYTdsazNodyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lWxG18p1SOlEc/giphy.webp" width="300px">
     </p>
     <ul>
       <li>🌱 I am a <strong>scholarship holder</strong> and <strong>trainer</strong> at <strong>PROTECSA (UNAM)</strong>.</li>
@@ -67,7 +69,8 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enfrijolada_de_frijol)
 </div>
 
-<h1 align="center"> :green_book: Knowledge :pencil2:</h1>
+
+<h1 align="center"> :black_circle: Knowledge :black_circle:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,arch,debian,ubuntu,git,github,py,docker,html,css,javascript,matlab,java,md,latex,next,unity,typescript,arduino,&perline=10"alt="My Knowledge"/> 
@@ -77,7 +80,7 @@
 <br>
 
 <details open> 
-  <summary><h2>:chart_with_upwards_trend: Github Activity Graph</h2></summary>
+  <summary><h2>:white_square_button: Github Activity Graph</h2></summary>
   <div align="center" size="100px">
 
   [![Enfrijolada's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnfrijoladaDeFrijol&theme=github-compact)](https://github.com/EnfrijoladaDeFrijol/github-readme-activity-graph)
@@ -86,7 +89,7 @@
 
 
 <details> 
-  <summary><h2>📊 Github Stats and Activit</h2></summary>
+  <summary><h2>:white_square_button: Github Stats and Activit</h2></summary>
   <div align="center">
 
   ![Mi Grafica](https://github-readme-stats.vercel.app/api?username=EnfrijoladaDeFrijol&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
