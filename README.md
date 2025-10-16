@@ -1,7 +1,7 @@
 
 <img width="2000px" href="https://github.com/EnfrijoladaDeFrijol" src="img/Encabezado_starwars_README.png"></img>
 
-
+<!--
 <div align="center">
   <table align="right">
   <tr><td><a href="https://github.com/EnfrijoladaDeFrijol"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/united-states-of-america-658093.png?f=avif&w=256" alt="US flag" width="17px"> English</a></td></tr>
@@ -9,7 +9,7 @@
   </table>
 </div>
 
-<h1 align="center"><img src="https://media3.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47iga0na4364sx6w3hguofk8ls1bouzdkts7ck2hih&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> Hello world !</h1>
+<h1 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djNtbDd5cTRheTQybG54dW82ZWVoNW42MTF1NzhrbDNwY3o2OWViNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMvfHRHC3f6sapMzrS/giphy.webp" width="35"> Hello world !</h1>
 
 
 <!-- Gatitos saludando
@@ -20,39 +20,42 @@
 <!--, F1CC12-->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=00C615&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=C5C5C5FF&size=25&center=true&vCenter=true&height=40&pause=3500&lines=My+name+is+Arthur;You+can+call+me+Enfrijolada;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
   [![](https://visitcount.itsvg.in/api?id=EnfrijoladaDeFrijol&icon=5&color=3)](https://visitcount.itsvg.in)
 
 </div>
 
-<br>
 
-<h1 align="center"><img src="https://media3.giphy.com/media/bDtzRbWJOwmInd1DQP/200w.webp?cid=ecf05e47lezq2lufyb611n7pngpgjhzfxs5y10y9n7oy7u0j&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> About me</h1>
-
-<!-- 
-<img align="right" alt="Grogu" src="https://media4.giphy.com/media/6o96ru5kUh8GjT9DsJ/giphy.gif?cid=ecf05e479ce5tcta4d0vi9urce7617p3ig3uc22bjqy730o1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px"></img>
-
-<img align="right" alt="Eva01" src="https://media2.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif?cid=ecf05e47kpqpp0v5xds823vx5pfsh18gcleupyq93g9jp4nh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300px">
-
-<img align="right" alt="shinji" src="https://media3.giphy.com/media/mxvs1WSuKy5REJtDiG/200w.webp?cid=ecf05e47eq1bwt1xjkjre1paq5dox2qgkrn42wbqto9m7yv6&ep=v1_stickers_search&rid=200w.webp&ct=s" width="300x">
--->
-
-<h3 align="left">I am currently studying Computer Engineering at the very Facultad de Ingenieria (UNAM)</h3>
-
-<img align="right" alt="Eva01" src="https://media0.giphy.com/media/IUNycHoVqvLDowiiam/200w.webp?cid=ecf05e47nrchjftgyb3tg9vzz3zmx3j6hys063amtxl02bk9&ep=v1_stickers_search&rid=200w.webp&ct=s" width="330px">
+<h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3NjYTVma3JuMmd6NTJ6NDhpa3pyeWRudzdlZTM1ejVlOThnaXF5MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AQ9ITNdrDb6XhZxDtd/200.webp" width="45"> About me <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3NjYTVma3JuMmd6NTJ6NDhpa3pyeWRudzdlZTM1ejVlOThnaXF5MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AQ9ITNdrDb6XhZxDtd/200.webp" width="45"> </h1> 
 
 
-<p align="justify">I've worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.</p>
 
-- 🌱 I am inter at PROTECO. 
-- :penguin: I am also a linux user. 
-- 🏆 My personal goal, contribute more to open source projects. 
-- :guitar: I like playing guitar as a hobby. 
-- :hearts: I love capybaras, Neon Genesis Evangelion and Star Wars.
-- :diamond_shape_with_a_dot_inside: I like rubik cubes.
-- :book: I wanna become a great teacher.
-- :star2: My biggest dream, becoming a Cybersecurity Engineer.
+<tr>
+  <td valign="top">
+    <h3>I'm a Computer Engineering student, developer, and aspiring teacher.</h3>
+    <p align="justify">
+      I've worked hard to get to this point where I feel I can dedicate myself to technology and development, but likewise one of my biggest dreams is to be a good teacher to contribute a grain of sand to this chaotic world.
+      <td width="35%" align="center">
+      <img align="right" alt="Eva01" src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2E5ZGF1c3A3dGZ2cWhrN3VlMW92MWt2aGJqdWk0OHJ1ODY1bWg0dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RibxbCbndyKu9tef9k/giphy.webp" width="330px">
+    </p>
+    <ul>
+      <li>🌱 I am a <strong>scholarship holder</strong> and <strong>trainer</strong> at <strong>PROTECSA (UNAM)</strong>.</li>
+      <li>I actively participate as a <strong>member</strong> and <strong>trainer</strong> in the <strong>IEEE Computer Society (IEEE CS)</strong> student branch.</li>
+      <li>I am also a <strong>Linux</strong> user.</li>
+      <li>I love <strong>Arch and Debia</strong> distros.</li>
+      <li>My personal goal: contribute more to <strong>Open Source</strong> projects.</li>
+      <li>I like playing guitar as a hobby.</li>
+      <li>I love capybaras, Neon Genesis Evangelion, and Star Wars.</li>
+      <li>I like Rubik's cubes.</li>
+      <li>I wanna become a great teacher.</li>
+      <li>My biggest dream: becoming a <strong>Cybersecurity Engineer</strong>.</li>
+    </ul>
+    
+  </td>
+  </td>
+</tr>
+
 
 <br>
 <br>
@@ -67,7 +70,7 @@
 <h1 align="center"> :green_book: Knowledge :pencil2:</h1>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,py,docker,html,css,javascript,matlab,java,c,md,latex&perline=7"alt="My Knowledge"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,arch,debian,ubuntu,git,github,py,docker,html,css,javascript,matlab,java,md,latex,next,unity,typescript,arduino,&perline=10"alt="My Knowledge"/> 
     </a>
 </p>
 
@@ -96,8 +99,6 @@
 <img align="left" src="https://media2.giphy.com/media/MD4TpcX11Gvfk2KOXG/200w.webp?cid=ecf05e47tku0uoxt05sy1g5u03o7w4ig7cdyfv6izsgfd0bm&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50">
 
 <p align="right"><a href="#-hello-world-"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/apartment-177-357309.png?f=avif&w=256" alt="Back to top" width="20"> Home</a></p>
-
-<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="1100px"></img>
 
 
 <!--
